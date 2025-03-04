@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DTIJAVAPROJECTFour/DTIJAVAPROJECTFour.iml" filepath="$PROJECT_DIR$/DTIJAVAPROJECTFour/DTIJAVAPROJECTFour.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectFive/ProjectFive.iml" filepath="$PROJECT_DIR$/ProjectFive/ProjectFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projectsix/Projectsix.iml" filepath="$PROJECT_DIR$/Projectsix/Projectsix.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/markrock.iml" filepath="$PROJECT_DIR$/.idea/markrock.iml" />
       <module fileurl="file://$PROJECT_DIR$/myfirstjava/myfirstjava.iml" filepath="$PROJECT_DIR$/myfirstjava/myfirstjava.iml" />
     </modules>
